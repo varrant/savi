@@ -1,0 +1,110 @@
+{
+  "/index.html": {
+    "main": [],
+    "js": [
+      {
+        "dest": "/static/js/1526088f57a82627f3c096dc4b5e8527.js",
+        "deps": [
+          "../webroot-dev/static/lib/jquery.min.js",
+          "../webroot-dev/static/lib/jquery.fullPage.min.js",
+          "../webroot-dev/static/lib/jquery.easing.1.3.js",
+          "../webroot-dev/static/lib/jquery.isotope.js",
+          "../webroot-dev/static/lib/bootstrap/js/bootstrap.js",
+          "../webroot-dev/static/js/main/handler.js",
+          "../webroot-dev/static/js/main/resumeEnter.js"
+        ]
+      }
+    ],
+    "css": [
+      {
+        "dest": "/static/css/177d443616a7acd8daeec5576753f7bd.css",
+        "deps": [
+          {
+            "src": "../webroot-dev/static/lib/bootstrap/css/bootstrap.css",
+            "res": [
+              "../webroot-dev/static/lib/bootstrap/fonts/glyphicons-halflings-regular.eot",
+              "../webroot-dev/static/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+              "../webroot-dev/static/lib/bootstrap/fonts/glyphicons-halflings-regular.woff",
+              "../webroot-dev/static/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+              "../webroot-dev/static/lib/bootstrap/fonts/glyphicons-halflings-regular.svg"
+            ]
+          },
+          {
+            "src": "../webroot-dev/static/css/jquery.fullPage.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/animate.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/base.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-1.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-2.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-3.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-4.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-5.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/page-6.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/background.css",
+            "res": [
+              "../webroot-dev/static/images/bg7.jpg",
+              "../webroot-dev/static/images/11.jpg",
+              "../webroot-dev/static/images/5.jpg",
+              "../webroot-dev/static/images/7.jpg",
+              "../webroot-dev/static/images/bg1.jpg",
+              "../webroot-dev/static/images/12.jpg",
+              "../webroot-dev/static/images/pure.jpg"
+            ]
+          },
+          {
+            "src": "../webroot-dev/static/css/movement.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/static/css/index.css",
+            "res": [
+              "../webroot-dev/static/images/dot.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "res": [
+      "../webroot-dev/static/images/favicon.ico",
+      "../webroot-dev/static/images/page_home/1.png",
+      "../webroot-dev/static/images/page_home/2.png",
+      "../webroot-dev/static/images/page_home/3.png",
+      "../webroot-dev/static/images/page_home/4.png",
+      "../webroot-dev/static/images/page-2/glass.png",
+      "../webroot-dev/static/images/page-2/hat.png",
+      "../webroot-dev/static/images/page-2/book.png",
+      "../webroot-dev/static/images/page-2/tel.png",
+      "../webroot-dev/static/images/page-3/5(2).png",
+      "../webroot-dev/static/images/page-3/1(4).png",
+      "../webroot-dev/static/images/page-3/2(3).png",
+      "../webroot-dev/static/images/page-4/sudu-company.jpeg",
+      "../webroot-dev/static/images/page-4/qiantu.jpeg"
+    ]
+  }
+}
